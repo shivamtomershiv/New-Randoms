@@ -4,7 +4,7 @@
 
 You can find all the books listed of this repository:
 
-[**DSA**](https://github.com/shivamtomershiv/Reading-Materials/tree/main/Data%20Structure%20and%20Algorithm%20in%20Python)
+[**DSA Books Folder**](https://github.com/shivamtomershiv/Reading-Materials/tree/main/Data%20Structure%20and%20Algorithm%20in%20Python)
 
 - A Common-Sense Guide to Data Structures and Algorithms - Level Up Your Core Programming Skills
 - Algorithms in a Nutshell 
