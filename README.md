@@ -2,7 +2,9 @@
 
 ## List of Books
 
-You can find all the books listed below in [**book**](/Reading-Materials) folder of this repository:
+You can find all the books listed of this repository:
+
+[**DSA Books**](/Data Structure and Algorithm in Python)
 
 - A Common-Sense Guide to Data Structures and Algorithms - Level Up Your Core Programming Skills
 - Algorithms in a Nutshell 
