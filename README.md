@@ -2,7 +2,7 @@
 
 ## List of Books
 
-You can find all the books listed below in [**book**](/book) folder of this repository:
+You can find all the books listed below in [**book**](/Reading-Materials) folder of this repository:
 
 - A Common-Sense Guide to Data Structures and Algorithms - Level Up Your Core Programming Skills
 - Algorithms in a Nutshell 
